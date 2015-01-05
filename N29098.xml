@@ -112,8 +112,8 @@
    <text xml:lang="unk">
       <front>
          <div type="title_page">
-            <pb facs="tcp:038780_0000_101232DD9D1CB2A0"/>
-            <pb facs="tcp:038780_0001_101232E08CD2FD50"/>
+            <pb facs="unknown:038780_0000_101232DD9D1CB2A0"/>
+            <pb facs="unknown:038780_0001_101232E08CD2FD50"/>
             <p>MESSAGE FROM THE <hi>PRESIDENT of the UNITED STATES,</hi> TRANSMITTING AN ORIGINAL LETTER FROM MRS. WASHINGTON, In anſwer to a Letter from him, WRITTEN IN PURSUANCE OF THE RESOLUTION OF CONGRESS, REQUESTING HER ASSENT TO THE INTERMENT OF THE REMAINS OF <hi>GENERAL WASHINGTON</hi> IN THE CAPITOL, AT THE CITY OF WASHINGTON.</p>
             <p>8th January, 1800.</p>
             <p>Referred to the joint Committee appointed to prepare and report meaſures expreſſive of the profound ſor<g ref="char:EOLhyphen"/>row with which Congreſs is penetrated on the death of General George Waſhington.</p>
@@ -122,7 +122,7 @@
       </front>
       <body>
          <div type="letter">
-            <pb facs="tcp:038780_0002_101232E55BA56480"/>
+            <pb facs="unknown:038780_0002_101232E55BA56480"/>
             <head>MESSAGE.</head>
             <opener>
                <salute>Gentlemen of the Senate, and Gentlemen of the Houſe of Repreſentatives,</salute>
@@ -137,7 +137,7 @@
             </closer>
          </div>
          <div type="letter">
-            <pb facs="tcp:038780_0003_101232E7E81CD450"/>
+            <pb facs="unknown:038780_0003_101232E7E81CD450"/>
             <opener>
                <dateline>MOUNT-VERNON, <date>
                      <hi>December</hi> 31ſt, 1799.</date>
